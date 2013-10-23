@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://alexacosta.me/codeigniter_excel_library/';
+$config['base_url']	= 'http://TULOCALHOST/codeigniter_excel_library/';
 
 /*
 |--------------------------------------------------------------------------
